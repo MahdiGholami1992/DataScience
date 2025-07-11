@@ -13,7 +13,12 @@ git checkout Master2
 git commit -a -m 'comment'
 git remote -v
 git remote rm origin
+<<<<<<< HEAD
 git push
+=======
+git pull
+
+>>>>>>> 06f8e8b8b76d01b50c490456c23435ab9ec33c1d
 
 
 
