@@ -13,7 +13,6 @@ git checkout Master2
 git commit -a -m 'comment'
 git remote -v
 git remote rm origin
-git push
 
 
 
@@ -34,4 +33,3 @@ cat
 nano
 rm -r
 cat ~/.ssh/id_ed25519.pub
-ssh-keygen -t ed25519 -C "m992.gholami@gmail.com"
