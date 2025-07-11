@@ -13,6 +13,8 @@ git checkout Master2
 git commit -a -m 'comment'
 git remote -v
 git remote rm origin
+git pull
+
 
 
 
